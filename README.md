@@ -1,5 +1,6 @@
 # 💫 About Me:
 **Full Stack Developer | E-commerce Specialist**
+
 I am a forward-thinking Full Stack Developer with over 3 years of experience in building high-performance web applications and custom e-commerce solutions. My expertise spans React.js, Node.js, Next.js, Nest.js, and Magento 2, allowing me to deliver dynamic user interfaces and robust backend systems that drive business growth and improve user experiences.<br><br>Specializing in JavaScript frameworks, I excel in developing scalable applications using React.js and Next.js for front-end development, alongside Node.js for powerful backend architecture. My knowledge of MongoDB, PostgreSQL, Firestore , and MySQL ensures efficient database management for optimal application performance.<br><br>In addition, I have deep experience with Magento 2 for e-commerce development, where I optimize platforms for better conversion rates, smooth user navigation, and scalable infrastructure. I’m also well-versed in Hyva theme, PHP, LessCSS, and Git for full-cycle development solutions.<br><br>I prioritize clean code, scalability, and on-time delivery, making me a reliable partner for projects from small businesses to large enterprises. My strong communication and adaptability ensure seamless collaboration, delivering client-focused solutions every time.
 
 
