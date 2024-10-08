@@ -1,120 +1,20 @@
-<!DOCTYPE html>
-<html lang="en">
+# 💫 About Me:
+**Full Stack Developer | Magento , React , Next , Node.js**
 
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Full Stack Developer | E-commerce Specialist</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            margin: 0;
-            padding: 0;
-            background-color: #f4f4f4;
-        }
+I am a forward-thinking Full Stack Developer with over 3 years of experience in building high-performance web applications and custom e-commerce solutions. My expertise spans React.js, Node.js, Next.js, Nest.js, and Magento 2, allowing me to deliver dynamic user interfaces and robust backend systems that drive business growth and improve user experiences.<br><br>Specializing in JavaScript frameworks, I excel in developing scalable applications using React.js and Next.js for front-end development, alongside Node.js for powerful backend architecture. My knowledge of MongoDB, PostgreSQL, Firestore , and MySQL ensures efficient database management for optimal application performance.<br><br>In addition, I have deep experience with Magento 2 for e-commerce development, where I optimize platforms for better conversion rates, smooth user navigation, and scalable infrastructure. I’m also well-versed in Hyva theme, PHP, LessCSS, and Git for full-cycle development solutions.<br><br>I prioritize clean code, scalability, and on-time delivery, making me a reliable partner for projects from small businesses to large enterprises. My strong communication and adaptability ensure seamless collaboration, delivering client-focused solutions every time.
 
-        .container {
-            max-width: 900px;
-            margin: 0 auto;
-            padding: 20px;
-            background-color: #fff;
-            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
-        }
 
-        h1, h2 {
-            color: #333;
-        }
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/roman_luhar) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/roman-luhar-895971215) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/25056155/roman-luhar) 
 
-        h1 {
-            border-bottom: 2px solid #4CAF50;
-            padding-bottom: 10px;
-        }
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Alpine.js](https://img.shields.io/badge/alpinejs-white.svg?style=for-the-badge&logo=alpinedotjs&logoColor=%238BC0D0) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Code-Igniter](https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?style=for-the-badge&logo=codeIgniter&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Less](https://img.shields.io/badge/less-2B4C80?style=for-the-badge&logo=less&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nuxt JS](https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxt.js&logoColor=#00DC82) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=romanluhar&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=romanluhar&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=romanluhar&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-        .tech-stack {
-            display: flex;
-            flex-wrap: wrap;
-            gap: 20px;
-            margin-top: 20px;
-        }
+---
+[![](https://visitcount.itsvg.in/api?id=romanluhar&icon=0&color=0)](https://visitcount.itsvg.in)
 
-        .tech-stack img {
-            width: 50px;
-            height: 50px;
-        }
-
-        .content p {
-            line-height: 1.6;
-            color: #555;
-        }
-
-        .contact {
-            margin-top: 30px;
-        }
-
-        .contact a {
-            color: #4CAF50;
-            text-decoration: none;
-        }
-
-        .contact a:hover {
-            text-decoration: underline;
-        }
-
-        .section {
-            margin-bottom: 40px;
-        }
-    </style>
-</head>
-
-<body>
-
-    <div class="container">
-        <h1>Full Stack Developer | E-commerce Specialist</h1>
-
-        <div class="content">
-            <p>👋 Hi, I’m a <strong>Forward-thinking Full Stack Developer</strong> with over 3 years of experience in building high-performance web applications and custom e-commerce solutions. My primary focus is on <strong>React.js</strong>, <strong>Node.js</strong>, <strong>Next.js</strong>, <strong>Nest.js</strong>, and <strong>Magento 2</strong>, enabling me to deliver dynamic, user-friendly interfaces alongside robust backend systems that drive business growth and enhance user experience.</p>
-        </div>
-
-        <div class="section">
-            <h2>🛠️ Tech Stack & Expertise</h2>
-
-            <div class="tech-stack">
-                <div><img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="React.js logo" title="React.js"></div>
-                <div><img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" alt="Next.js logo" title="Next.js"></div>
-                <div><img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" alt="Node.js logo" title="Node.js"></div>
-                <div><img src="https://cdn.worldvectorlogo.com/logos/nestjs.svg" alt="Nest.js logo" title="Nest.js"></div>
-                <div><img src="https://cdn.worldvectorlogo.com/logos/magento.svg" alt="Magento 2 logo" title="Magento 2"></div>
-                <div><img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" alt="MongoDB logo" title="MongoDB"></div>
-                <div><img src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" alt="PostgreSQL logo" title="PostgreSQL"></div>
-                <div><img src="https://cdn.worldvectorlogo.com/logos/mysql-6.svg" alt="MySQL logo" title="MySQL"></div>
-                <div><img src="https://cdn.worldvectorlogo.com/logos/php-1.svg" alt="PHP logo" title="PHP"></div>
-                <div><img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" alt="Git logo" title="Git"></div>
-            </div>
-        </div>
-
-        <div class="section">
-            <h2>🌟 What I Bring to the Table</h2>
-            <p><strong>Scalable & Performant Applications:</strong> I specialize in JavaScript frameworks like <strong>React.js</strong> and <strong>Next.js</strong>, delivering fast and scalable frontends. I pair this with <strong>Node.js</strong> to build powerful backend solutions, ensuring seamless full-stack development.</p>
-            <p><strong>E-commerce Mastery:</strong> With deep experience in <strong>Magento 2</strong>, I excel at creating custom e-commerce platforms that enhance the user experience and optimize for conversions. I’m well-versed in <strong>Hyva theme</strong>, <strong>PHP</strong>, and related technologies to deliver tailored, scalable e-commerce solutions.</p>
-            <p><strong>Database Expertise:</strong> Whether it’s managing NoSQL databases like <strong>MongoDB</strong> or relational databases like <strong>PostgreSQL</strong> and <strong>MySQL</strong>, I ensure that your data is organized, secure, and always accessible for maximum application efficiency.</p>
-        </div>
-
-        <div class="section">
-            <h2>🚀 Why Work With Me</h2>
-            <p><strong>Clean, Scalable Code:</strong> I prioritize writing clean, maintainable code, ensuring your project is future-proof and easy to scale as your business grows.</p>
-            <p><strong>On-Time Delivery:</strong> Punctuality and meeting deadlines are my top priorities. You can rely on me to deliver high-quality results on time, every time.</p>
-            <p><strong>Strong Communication & Collaboration:</strong> I pride myself on clear and consistent communication throughout all project phases. I am adaptable and thrive in both independent and team-oriented environments, ensuring smooth collaboration for every project.</p>
-        </div>
-
-        <div class="contact">
-            <h2>📫 Let's Connect!</h2>
-            <p>I’m always excited to collaborate on new projects and explore innovative ideas. Feel free to reach out if you're looking for a <strong>reliable Full Stack Developer</strong> to help take your project to the next level.</p>
-            <p>Email: <a href="mailto:youremail@example.com">youremail@example.com</a></p>
-            <p>LinkedIn: <a href="https://www.linkedin.com/in/yourprofile" target="_blank">Your LinkedIn Profile</a></p>
-            <p>GitHub: <a href="https://github.com/yourprofile" target="_blank">Your GitHub Profile</a></p>
-        </div>
-    </div>
-
-</body>
-
-</html>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
